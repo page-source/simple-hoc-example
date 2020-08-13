@@ -3,4 +3,4 @@
 This repository is a React repository containing the simplest of implementation of
 Higher Order Components.
 
-![Upper one is without HOC, Lower one is with HOC](./public/previewImage.png)
+![HTML](https://uploads.codesandbox.io/uploads/user/0afc2da6-d724-47ea-be18-8fae6a8f3474/2Hqf-previewImage.png)
